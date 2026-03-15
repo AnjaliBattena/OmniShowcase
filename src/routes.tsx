@@ -1,4 +1,5 @@
 import HomePage from './pages/HomePage';
+import LoginPage from './pages/LoginPage';
 import ThoughtSpotPage from './pages/ThoughtSpotPage';
 import ProcessEnginePage from './pages/ProcessEnginePage';
 import VoyagoPage from './pages/VoyagoPage';
@@ -22,6 +23,12 @@ const routes: RouteConfig[] = [
     name: 'Home',
     path: '/',
     element: <HomePage />
+  },
+  {
+    name: 'Login',
+    path: '/login',
+    element: <LoginPage />,
+    visible: false
   },
   {
     name: 'ThoughtSpot Analytics',

@@ -235,6 +235,18 @@ export default function HomePage() {
                   <FileText className="h-5 w-5 transition-transform group-hover:rotate-12" />
                 </span>
               </Button>
+
+              <Button 
+                size="lg" 
+                variant="outline"
+                className="group h-14 rounded-full border-2 border-purple-500/50 bg-slate-900/80 px-8 text-lg font-bold backdrop-blur-xl transition-all hover:scale-105 hover:border-purple-400 hover:bg-purple-500/20 hover:shadow-xl hover:shadow-purple-500/30"
+                asChild
+              >
+                <Link to="/login" className="flex items-center gap-2 text-white">
+                  Sign In
+                  <ExternalLink className="h-5 w-5 transition-transform group-hover:translate-x-1" />
+                </Link>
+              </Button>
             </div>
 
             {/* Stats Grid with Cards */}
