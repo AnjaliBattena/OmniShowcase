@@ -32,7 +32,29 @@
 - Smooth transitions and interactive elements
 - Professional typography and spacing
 
-### 2.2 Login Page
+### 2.2 Register Page
+
+**Layout:**
+- Centered registration form container
+- OmniShowcase logo/branding at top
+- Registration form card with modern styling
+
+**Form Elements:**
+- Full name input field
+- Email input field
+- Password input field
+- Confirm password input field
+- Terms and conditions checkbox
+- Register button
+- Already have an account? Login link
+
+**Visual Requirements:**
+- Consistent with overall platform design language
+- Modern background treatment
+- Clear visual hierarchy
+- Responsive layout
+
+### 2.3 Login Page
 
 **Layout:**
 - Centered login form container
@@ -53,7 +75,7 @@
 - Clear visual hierarchy
 - Responsive layout
 
-### 2.3 ThoughtSpot Analytics Dashboard Template
+### 2.4 ThoughtSpot Analytics Dashboard Template
 - Home navigation with sidebar menu
 - Create New functionality
 - Favorites section
@@ -69,7 +91,7 @@
 - Show Query toggle
 - Details panel with author information and creation date
 
-### 2.4 Process Engine Workflow Template
+### 2.5 Process Engine Workflow Template
 - Dark-themed workflow visualization interface
 - Project navigation (Projects / Shared with me)
 - Process title: Demo for VISA: Check transaction for antifraud (Version 1.1.02) [Read only]
@@ -86,7 +108,7 @@
 - Activity timeline with user actions
 - User avatars and collaboration features
 
-### 2.5 Voyago Travel Booking Template
+### 2.6 Voyago Travel Booking Template
 - Navigation menu: Homepage, Vacation, Hotels, All In One, Car Rental
 - Location display (Kyoto, Japan)
 - Register button
@@ -102,7 +124,7 @@
   - Pricing per night ($180, $66, $205, $120)
 - Partner logos: Booking.com, Airbnb, Expedia, Tripadvisor, Outdoorsy
 
-### 2.6 OAD Dining Review Platform Template
+### 2.7 OAD Dining Review Platform Template
 - Navigation: Explore, Dining Guides, Top Reviewers, Travel with OAD, Magazine
 - Search and language options (English)
 - Make a review button
@@ -121,7 +143,7 @@
 - Best 20 Restaurants
 - Chef Eats section (98)
 
-### 2.7 SapaceArt Interior Design Template
+### 2.8 SapaceArt Interior Design Template
 - Navigation: Products, Brands, Shop, About Us
 - Contact Us button
 - Hero section: SPACE REIMAGINED
@@ -136,7 +158,7 @@
 - Design showcase: Helping you live beautifully by designing interiors that are as unique as you are
 - Interior design images showcasing living spaces
 
-### 2.8 Apparte Sales Platform Template
+### 2.9 Apparte Sales Platform Template
 - Navigation: Platform, Teams, Resources, Pricing
 - Get started button
 - Main heading: the only solution you need to run a world-class sales organization
@@ -149,7 +171,7 @@
   - User profile card (Zaek Treme, Founder & Ceo Apparteal)
   - Add to sequence functionality
 
-### 2.9 Trafex Contractor Management Template
+### 2.10 Trafex Contractor Management Template
 - Top banner: Take a quick tour experience how simple it is to manage a global network of contractors with Trafex compliantly
 - Navigation: Platform, Solutions, Resources, Pricing
 - Login and Get started buttons
@@ -164,7 +186,7 @@
   - Invoice tracking (invoice-710: $370.00, invoice-711: $210.00)
 - Team collaboration image
 
-### 2.10 Case Management Dashboard Template
+### 2.11 Case Management Dashboard Template
 - Dark-themed interface with multiple widgets:
 
 **Your Cases Widget:**
@@ -203,7 +225,7 @@
 
 **Shout Out Widget**
 
-### 2.11 Tasking Project Management Template
+### 2.12 Tasking Project Management Template
 - Left sidebar navigation:
   - Tasking logo with airplane icon
   - Hello 👋 Daniel greeting
