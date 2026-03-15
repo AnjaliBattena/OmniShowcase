@@ -13,18 +13,18 @@
 **Hero Section:**
 - Main heading: OmniShowcase
 - Tagline: A comprehensive design and UI showcase platform featuring high-fidelity screen templates for dashboarding, booking, management, and landing pages
-- Key metrics display:
-  - ✨ 9 Templates
-  - 📱 Responsive Design
-  - 🎨 Modern UI
-  - 🚀 Production Ready
+- Key metrics display with clickable information:
+  - ✨ 9 Templates (clickable - shows detailed information about the 9 available templates)
+  - 📱 Responsive Design (clickable - shows information about responsive design features)
+  - 🎨 Modern UI (clickable - shows information about modern UI principles)
+  - 🚀 Production Ready (clickable - shows information about production readiness)
 - Call-to-action buttons: Explore Templates, View Documentation
 
-**Statistics Section:**
-- 9 Templates
-- 100% Responsive
-- 50+ Components
-- ∞ Possibilities
+**Statistics Section with clickable information:**
+- 🎯 9 Templates (clickable - displays template details)
+- 📐 100% Responsive (clickable - displays responsive design information)
+- 🧩 50+ Components (clickable - displays component information)
+- ∞ Possibilities (clickable - displays possibilities information)
 
 **Visual Requirements:**
 - Unique, modern background design with UI/UX highlights
