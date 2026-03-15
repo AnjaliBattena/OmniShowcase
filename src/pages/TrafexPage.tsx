@@ -37,7 +37,7 @@ export default function TrafexPage() {
               <Button variant="ghost" onClick={() => alert('Opening login...')}>Login</Button>
               <Button variant="default" onClick={() => alert('Getting started...')}>Get started</Button>
               <Button variant="outline" size="sm" asChild>
-                <Link to="/">Back</Link>
+                <Link to="/dashboard">Back</Link>
               </Button>
             </div>
           </div>

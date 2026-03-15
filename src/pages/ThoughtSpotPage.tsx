@@ -66,7 +66,7 @@ export default function ThoughtSpotPage() {
             <span className="text-xl font-bold">ThoughtSpot</span>
           </div>
           <Button variant="outline" size="sm" asChild>
-            <Link to="/">Back to Home</Link>
+            <Link to="/dashboard">Back to Home</Link>
           </Button>
         </div>
       </header>

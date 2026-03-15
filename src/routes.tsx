@@ -20,15 +20,15 @@ interface RouteConfig {
 
 const routes: RouteConfig[] = [
   {
-    name: 'Home',
-    path: '/',
-    element: <HomePage />
-  },
-  {
     name: 'Login',
-    path: '/login',
+    path: '/',
     element: <LoginPage />,
     visible: false
+  },
+  {
+    name: 'Dashboard',
+    path: '/dashboard',
+    element: <HomePage />
   },
   {
     name: 'ThoughtSpot Analytics',

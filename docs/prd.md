@@ -8,7 +8,59 @@
 
 ## 2. Core Features
 
-### 2.1 Landing Page
+### 2.1 Register Page
+
+**Layout:**
+- Centered registration form container
+- OmniShowcase logo/branding at top
+- Registration form card with modern styling
+
+**Form Elements:**
+- Full name input field
+- Email input field
+- Password input field
+- Confirm password input field
+- Terms and conditions checkbox
+- Register button
+- Already have an account? Login link
+
+**Visual Requirements:**
+- Consistent with overall platform design language
+- Modern background treatment
+- Clear visual hierarchy
+- Responsive layout
+
+**Access Control:**
+- This page is the entry point before accessing the main website
+- Users must register or login to access other pages
+
+### 2.2 Login Page
+
+**Layout:**
+- Centered login form container
+- OmniShowcase logo/branding at top
+- Login form card with modern styling
+
+**Form Elements:**
+- Email/Username input field
+- Password input field
+- Remember me checkbox
+- Login button
+- Forgot password link
+- Sign up link for new users
+
+**Visual Requirements:**
+- Consistent with overall platform design language
+- Modern background treatment
+- Clear visual hierarchy
+- Responsive layout
+
+**Access Control:**
+- This page is the entry point before accessing the main website
+- Users must login to access other pages
+- Link to register page for new users
+
+### 2.3 Landing Page
 
 **Hero Section:**
 - Main heading: OmniShowcase
@@ -32,48 +84,8 @@
 - Smooth transitions and interactive elements
 - Professional typography and spacing
 
-### 2.2 Register Page
-
-**Layout:**
-- Centered registration form container
-- OmniShowcase logo/branding at top
-- Registration form card with modern styling
-
-**Form Elements:**
-- Full name input field
-- Email input field
-- Password input field
-- Confirm password input field
-- Terms and conditions checkbox
-- Register button
-- Already have an account? Login link
-
-**Visual Requirements:**
-- Consistent with overall platform design language
-- Modern background treatment
-- Clear visual hierarchy
-- Responsive layout
-
-### 2.3 Login Page
-
-**Layout:**
-- Centered login form container
-- OmniShowcase logo/branding at top
-- Login form card with modern styling
-
-**Form Elements:**
-- Email/Username input field
-- Password input field
-- Remember me checkbox
-- Login button
-- Forgot password link
-- Sign up link for new users
-
-**Visual Requirements:**
-- Consistent with overall platform design language
-- Modern background treatment
-- Clear visual hierarchy
-- Responsive layout
+**Access Control:**
+- This page is only accessible after successful login/registration
 
 ### 2.4 ThoughtSpot Analytics Dashboard Template
 - Home navigation with sidebar menu
@@ -306,7 +318,8 @@
 
 ## 4. Navigation & User Experience
 
-- Seamless navigation between all nine template showcases
+- Register/Login pages as entry points before accessing the main website
+- Seamless navigation between all nine template showcases after login
 - Template preview cards on landing page
 - Full-screen template view mode
 - Return to overview functionality

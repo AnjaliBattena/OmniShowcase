@@ -65,7 +65,7 @@ export default function ProcessEnginePage() {
               <span className="absolute right-1 top-1 h-2 w-2 rounded-full bg-red-500" />
             </Button>
             <Button variant="outline" size="sm" asChild>
-              <Link to="/">Back to Home</Link>
+              <Link to="/dashboard">Back to Home</Link>
             </Button>
           </div>
         </div>

@@ -27,7 +27,7 @@ export default function SapaceArtPage() {
             <div className="flex items-center gap-4">
               <Button variant="default" onClick={() => {}}>Contact Us</Button>
               <Button variant="outline" size="sm" asChild>
-                <Link to="/">Back</Link>
+                <Link to="/dashboard">Back</Link>
               </Button>
             </div>
           </div>

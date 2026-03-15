@@ -35,7 +35,7 @@ export default function LoginPage() {
       return;
     }
     alert(`✅ Login Successful!\n\nEmail: ${loginEmail}\nRemember me: ${rememberMe ? 'Yes' : 'No'}\n\nWelcome back to OmniShowcase!\nRedirecting to dashboard...`);
-    navigate('/');
+    navigate('/dashboard');
   };
 
   const handleRegister = (e: React.FormEvent) => {
@@ -63,7 +63,7 @@ export default function LoginPage() {
     }
     
     alert(`✅ Registration Successful!\n\nWelcome ${registerName}!\n\nAccount Details:\n• Name: ${registerName}\n• Email: ${registerEmail}\n• Phone: ${registerPhone || 'Not provided'}\n\nA verification email has been sent to ${registerEmail}.\nPlease verify your email to activate your account.\n\nRedirecting to dashboard...`);
-    navigate('/');
+    navigate('/dashboard');
   };
 
   const handleSocialLogin = (provider: string) => {
@@ -100,13 +100,13 @@ export default function LoginPage() {
         <div className="w-full max-w-md">
           {/* Logo/Brand */}
           <div className="mb-8 text-center">
-            <Link to="/" className="inline-block">
+            <div className="inline-block">
               <h1 className="mb-2 text-5xl font-black">
                 <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">
                   OmniShowcase
                 </span>
               </h1>
-            </Link>
+            </div>
             <p className="text-slate-400">Sign in to access your dashboard</p>
           </div>
 

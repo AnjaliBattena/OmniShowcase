@@ -66,7 +66,7 @@ export default function OADPage() {
               <span className="text-sm">English</span>
               <Button variant="default" size="sm" onClick={() => {}}>Make a review</Button>
               <Button variant="outline" size="sm" asChild>
-                <Link to="/">Back</Link>
+                <Link to="/dashboard">Back</Link>
               </Button>
             </div>
           </div>

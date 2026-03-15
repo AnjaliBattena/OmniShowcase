@@ -46,7 +46,7 @@ export default function CaseManagementPage() {
         <div className="flex items-center justify-between">
           <h1 className="text-xl font-bold">Case Management Dashboard</h1>
           <Button variant="outline" size="sm" asChild>
-            <Link to="/">Back to Home</Link>
+            <Link to="/dashboard">Back to Home</Link>
           </Button>
         </div>
       </header>

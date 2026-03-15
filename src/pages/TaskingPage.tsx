@@ -142,7 +142,7 @@ export default function TaskingPage() {
                   </div>
                 </div>
                 <Button variant="outline" size="sm" asChild>
-                  <Link to="/">Back</Link>
+                  <Link to="/dashboard">Back</Link>
                 </Button>
               </div>
             </div>
